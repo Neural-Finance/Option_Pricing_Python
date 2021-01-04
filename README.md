@@ -1,5 +1,5 @@
 # Option_Pricing_Python
-I use Python to try all the experiments on the classic text book &lt;Options, Futures and other Derivatives>, focusing on the BS model and the sensitivity analysis on Greek Letters. Reference: Classic Text Book, Options, Futures, and Other Derivatives, 8th edition. The Charpter: The Greek Letters, Page 377-396. All the results and procedures have been tested and compared with the textbook. You can feel free and safe to use it. If you are the **new beginer for this course** or the **teacher who wants to find well writen Option Prcing code in Python Version**, I think this project will help you. Please give me a star or folk if you like it. 
+I use Python to try all the experiments on the classic text book **&lt;Options, Futures and other Derivatives, 8th edition.>**, focusing on the **Black-Scholes Model** and the sensitivity analysis on Greek Letters. The Charpter: The Greek Letters, Page 377-396. All the results and procedures have been tested and compared with the textbook. You can feel free and safe to use it. If you are the **new beginer for this course** or the **teacher who wants to find well writen Option Prcing code in Python Version**, I think this project will help you. Please give me a star or folk if you like it. 
 
 ### Structure
 There are two parts in this project:
